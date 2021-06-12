@@ -6,4 +6,3 @@ The documentation is now part of the [clij2 documentation](https://clij.github.i
 There is also an experimental repository, the [CLIJx-assistant](https://clij.github.io/clijx-assistant) with advanced functionaltity under development.
 
 [Imprint](https://clij.github.io/imprint)
-
