@@ -34,7 +34,7 @@ Stack view and corresponding maximum Z projection [Image data source: Daniela Vo
 
 This can be achieved by moving the center of the transform to the front (0) or back (1) of the image stack.
 
-![Image](images/sphere_transform_dialog.png)
+![Image](../clijx-assistant/images/sphere_transform_dialog.png)
 
 This will result in a transformed stack like this:
 
