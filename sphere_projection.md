@@ -20,8 +20,8 @@ Open your time lapse data set. [Start the CLIJx-Assistant](https://clij.github.i
 After assembling your workflow, put the last three operations next to each other, change the parameters of the 
 rigid transform and inspect the results in the maximum Z projection.
 
-<iframe src="images/incubator_rigid_sphere_projection.mp4" width="540" height="540"></iframe>
-[Download video](images/Assistant_rigid_sphere_projection.mp4) 
+<iframe src="../clijx-assistant/images/incubator_rigid_sphere_projection.mp4" width="540" height="540"></iframe>
+[Download video](../clijx-assistant/images/Assistant_rigid_sphere_projection.mp4) 
 [Image data source: Irene Seijo Barandiaran, Grapin-Botton lab, MPI CBG]
 
 # Half-sphere projection
@@ -34,7 +34,7 @@ Stack view and corresponding maximum Z projection [Image data source: Daniela Vo
 
 This can be achieved by moving the center of the transform to the front (0) or back (1) of the image stack.
 
-![Image](../clijx-assistant/images/sphere_transform_dialog.png)
+![Image](images/sphere_transform_dialog.png)
 
 This will result in a transformed stack like this:
 
