@@ -1,4 +1,4 @@
-# Getting started designing image processing workflows with the CLIJx Assistant
+# Getting started designing image processing workflows with the CLIJ2 Assistant
 Open your 3D+channel+time data set. It's recommended to start the assistant from a file that has been loaded from or saved to disk.
 Afterwards, activate CLIJx-Assistant by clicking on its tool icon.
 
