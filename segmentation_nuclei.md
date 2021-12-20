@@ -18,13 +18,13 @@ Open your data set. [Start the CLIJx-Assistant](https://clij.github.io/assistant
 
 After assembling your workflow, put these operations next to each other, change the parameters.
 
-<iframe src="images/incubator_segmentation_3d_nuclei.mp4" width="540" height="540"></iframe>
-[Download video](images/incubator_segmentation_3d_nuclei.mp4)
+<iframe src="https://github.com/clij/clijx-assistant/blob/master/images/incubator_segmentation_3d_nuclei.mp4?raw=true" width="540" height="540"></iframe>
+[Download video](https://github.com/clij/clijx-assistant/blob/master/images/incubator_segmentation_3d_nuclei.mp4?raw=true)
 [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 There are many ways for detecting nuclei and extending their size, e.g. to study neighborhood relationships.
-<iframe src="images/clijxa_teaser1_fast.mp4" width="800" height="640"></iframe>
-[Download video](images/clijxa_teaser1.mp4) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
+<iframe src="https://github.com/clij/clijx-assistant/blob/master/images/clijxa_teaser1_fast.mp4?raw=true" width="800" height="640"></iframe>
+[Download video](https://github.com/clij/clijx-assistant/blob/master/images/clijxa_teaser1.mp4?raw=true) [Image data source: Daniela Vorkel, Myers lab, CSBD / MPI CBG]
 
 Back to [CLIJx-Assistant](https://clij.github.io/assistant)
 
